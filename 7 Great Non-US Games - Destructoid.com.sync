@@ -1,0 +1,32 @@
+name = 7 Great Non-US Games - Destructoid.com
+author = calle81
+url = https://github.com/wizzomafizzo/mrext/raw/main/cmd/launchsync/examples/Discord Game of the Month.sync
+updated = 2023-01-06 00:00
+
+[Firemen, The]
+system = SNES
+match = Firemen, The PAL-to-NTSC Patched (Europe) (En,Fr,De) v2 GhostlyDark
+
+[Maka Maka (Japan)]
+system = SNES
+match = Maka Maka (Japan)
+
+[Marvelous - Another Treasure Island]
+system = SNES
+match = Marvelous - Another Treasure Island - English (J) T+Eng v1.07 DackR.sfc
+
+[Parodius]
+system = SNES
+match = Parodius PAL-to-NTSC Patched (Europe) v2 GhostlyDark
+
+[Seiken Densetsu 3]
+system = SNES
+match = Seiken Densetsu 3 (J) [T+Eng1.01_NCorlett+LNFT]
+
+[Star Ocean]
+system = SNES
+match = Star Ocean (J) T+Eng v1 DeJap & SDD1 Patched
+
+[Terranigma]
+system = SNES
+match = Terranigma PAL-to-NTSC Patched (Europe) v2 GhostlyDark
